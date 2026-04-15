@@ -72,4 +72,4 @@ Poszukuję praktyk lub stażu jako Junior Software Developer, gdzie mogę rozwij
 ## 📫 Kontakt
 
 - Email: piaseckawiktoriaa@gmail.com  
-- LinkedIn: (opcjonalnie)
+- LinkedIn: www.linkedin.com/in/wiktoria-piasecka777
