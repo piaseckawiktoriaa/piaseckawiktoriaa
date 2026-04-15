@@ -1,62 +1,75 @@
-# Hi 👋 I'm Wiktoria
+# Cześć 👋 Jestem Wiktoria
 
-🎓 Computer Science student at PJATK (2nd year)
-💻 Java, Python, C++, SQL
-🌐 Interested in frontend & backend development
-
----
-
-## 🚀 About me
-
-I'm a second-year Computer Science student passionate about building real-world applications and developing both backend and frontend skills.
-Currently focused on improving my programming and problem-solving abilities.
+🎓 Studentka Informatyki na PJATK (2 rok)  
+💻 Java, Python, C++, SQL  
+🌐 Zainteresowana frontendem i backendem  
 
 ---
 
-## 🛠️ Skills
+## 🚀 O mnie
 
-**Languages:**
-
-* Java
-* Python
-* C++
-* SQL
-
-**Technologies:**
-
-* HTML
-* CSS
-* JavaScript
-
-**Tools:**
-
-* Git
-* GitHub
-* VS Code
+Jestem studentką drugiego roku Informatyki, zainteresowaną tworzeniem aplikacji oraz rozwijaniem umiejętności zarówno w obszarze backendu, jak i frontendu.  
+Obecnie skupiam się na doskonaleniu umiejętności programistycznych, algorytmicznych oraz rozwiązywaniu problemów.
 
 ---
 
-## 📌 Projects
+## 🛠️ Umiejętności
 
-* **Java Collections Performance Tester**
-  A Java CLI application created to benchmark different collection types (`ArrayList`, `LinkedList`, `HashSet`, `TreeSet`) using generated primitive values and custom objects.
-  Implemented with enums, interfaces, Stream API, custom data generators, automated tests, and CSV result export.
+**Języki:**
+- Java  
+- Python  
+- C++  
+- SQL  
 
-* **Turtle Bridge Game**  
-  A Java 2D Swing-based game where the player delivers packages across a bridge of turtles while avoiding obstacles such as falling fish. Implemented with object-oriented design, event-driven        gameplay, sprite-based animations, NPC interactions, collision handling, and a custom scoring system.
+**Technologie:**
+- HTML  
+- CSS  
+- JavaScript  
+- Swing (Java GUI)  
+- SFML (C++)  
+
+**Narzędzia:**
+- Git  
+- GitHub  
+- IntelliJ IDEA  
+- CLion  
+- PyCharm  
+- VS Code
+- DataGrip
+
+---
+
+## 📌 Projekty
+
+* **Tester Wydajności Kolekcji**  
+  Aplikacja CLI w Javie służąca do testowania wydajności różnych struktur danych (`ArrayList`, `LinkedList`, `HashSet`, `TreeSet`) z wykorzystaniem danych prostych i obiektów.  
+  Zaimplementowana z użyciem enumów, interfejsów, Stream API, generatorów danych, testów automatycznych oraz eksportu wyników do CSV.
+  🔗 https://github.com/piaseckawiktoriaa/TesterWydajnosciKolekcji
+
+* **Turtle Bridge**  
+  Gra 2D w Javie (Swing), w której gracz dostarcza paczki, przemieszczając się po żółwiach i unikając przeszkód (np. ryb).  
+  Projekt oparty na programowaniu obiektowym, zawiera animacje sprite’ów, interakcje z NPC, obsługę zdarzeń oraz system punktacji.
+  🔗 https://github.com/piaseckawiktoriaa/TurtleBridge
 
 * **Monkey Typer**  
-  A C++ typing game built with SFML, where the player types falling words before they disappear from the screen.  
-  Implemented with object-oriented design, event-driven gameplay, real-time input handling, difficulty scaling, file-based configuration, and leaderboard persistence.
+  Gra typu *typing game* napisana w C++ z wykorzystaniem biblioteki SFML, w której gracz wpisuje pojawiające się słowa.  
+  Zawiera dynamiczną rozgrywkę, skalowanie trudności, obsługę wejścia w czasie rzeczywistym, konfigurację z pliku oraz zapis wyników.
+  🔗 https://github.com/piaseckawiktoriaa/monkey_typer
 
-* **Language Classification Neural Network**  
-  A Python implementation of a single-layer neural network designed to classify text by language based on letter frequency analysis.  
-  Built from scratch without external machine learning libraries, featuring training on text datasets, file and manual input classification, probability-based predictions, and model accuracy evaluation.
-
+* **Jednowarstwowa Sieć Neuronowa Do Klasyfikacji Języka**  
+  Implementacja jednowarstwowej sieci neuronowej w Pythonie do klasyfikacji tekstów według języka na podstawie częstości liter.  
+  Projekt wykonany od podstaw (bez bibliotek ML), zawiera trening na danych tekstowych, klasyfikację plików i tekstu oraz zwracanie prawdopodobieństw i skuteczności modelu.
+  🔗 https://github.com/piaseckawiktoriaa/JednowarstwowaSiecNeuronowa
 
 ---
 
-## 📫 Contact
+## 🎯 Cel zawodowy
 
-* Email: piaseckawiktoriaa@gmail.com (mailto:piaseckawiktoriaa@gmail.com)
-* LinkedIn: (optional)
+Poszukuję praktyk lub stażu jako Junior Software Developer, gdzie mogę rozwijać swoje umiejętności programistyczne i zdobywać doświadczenie w pracy nad realnymi projektami.
+
+---
+
+## 📫 Kontakt
+
+- Email: piaseckawiktoriaa@gmail.com  
+- LinkedIn: (opcjonalnie)
