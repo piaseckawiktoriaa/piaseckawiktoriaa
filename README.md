@@ -45,6 +45,10 @@ Currently focused on improving my programming and problem-solving abilities.
 * **Turtle Bridge Game**  
   A Java 2D Swing-based game where the player delivers packages across a bridge of turtles while avoiding obstacles such as falling fish. Implemented with object-oriented design, event-driven        gameplay, sprite-based animations, NPC interactions, collision handling, and a custom scoring system.
 
+* **Monkey Typer**  
+  A C++ typing game built with SFML, where the player types falling words before they disappear from the screen.  
+  Implemented with object-oriented design, event-driven gameplay, real-time input handling, difficulty scaling, file-based configuration, and leaderboard persistence.
+
 
 ---
 
