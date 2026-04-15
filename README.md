@@ -49,10 +49,14 @@ Currently focused on improving my programming and problem-solving abilities.
   A C++ typing game built with SFML, where the player types falling words before they disappear from the screen.  
   Implemented with object-oriented design, event-driven gameplay, real-time input handling, difficulty scaling, file-based configuration, and leaderboard persistence.
 
+* **Language Classification Neural Network**  
+  A Python implementation of a single-layer neural network designed to classify text by language based on letter frequency analysis.  
+  Built from scratch without external machine learning libraries, featuring training on text datasets, file and manual input classification, probability-based predictions, and model accuracy evaluation.
+
 
 ---
 
 ## 📫 Contact
 
-* Email: [your@email.com](mailto:your@email.com)
+* Email: piaseckawiktoriaa@gmail.com (mailto:piaseckawiktoriaa@gmail.com)
 * LinkedIn: (optional)
