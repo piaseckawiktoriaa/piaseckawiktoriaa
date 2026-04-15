@@ -54,7 +54,7 @@ Obecnie skupiam się na doskonaleniu umiejętności programistycznych, algorytmi
 * **Monkey Typer**  
   Gra typu *typing game* napisana w C++ z wykorzystaniem biblioteki SFML, w której gracz wpisuje pojawiające się słowa.  
   Zawiera dynamiczną rozgrywkę, skalowanie trudności, obsługę wejścia w czasie rzeczywistym, konfigurację z pliku oraz zapis wyników.
-  🔗 https://github.com/piaseckawiktoriaa/monkey_typer
+  🔗 https://github.com/piaseckawiktoriaa/MonkeyTyper
 
 * **Jednowarstwowa Sieć Neuronowa Do Klasyfikacji Języka**  
   Implementacja jednowarstwowej sieci neuronowej w Pythonie do klasyfikacji tekstów według języka na podstawie częstości liter.  
